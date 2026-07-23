@@ -1,6 +1,6 @@
 # Hi there!
 
-I'm Michael Fairchild. I'm a developer, accessibility coach, and subject matter expert in digital accessibility. Just trying to make the world a better place.
+I'm Michael Fairchild. I'm a full stack engineer, accessibility coach, and subject matter expert in digital accessibility. Just trying to make the world a better place.
 
 ## Projects
 
