@@ -4,6 +4,7 @@ I'm Michael Fairchild. I'm a full stack engineer, accessibility coach, and subje
 
 ## Projects
 
+- [Microsoft a11y-llm-eval](https://github.com/microsoft/a11y-llm-eval)
 - [a11ysupport.io](https://a11ysupport.io)
 - [W3C ARIA-AT](https://aria-at.w3.org/)
 - [Zero to a11y expert](https://github.com/mfairchild365/zero-to-a11y-expert)
