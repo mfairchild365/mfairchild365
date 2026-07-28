@@ -1,13 +1,13 @@
 # Hi there!
 
-I'm Michael Fairchild. I'm a full stack engineer, accessibility coach, and subject matter expert in digital accessibility. Just trying to make the world a better place.
+I'm Michael Fairchild. I'm a full stack engineer, AI-native developer, accessibility coach, and subject matter expert in digital accessibility. Just trying to make the world a better place.
 
-## Projects
+## Key Projects
 
-- [Microsoft a11y-llm-eval](https://github.com/microsoft/a11y-llm-eval)
-- [a11ysupport.io](https://a11ysupport.io)
-- [W3C ARIA-AT](https://aria-at.w3.org/)
-- [Zero to a11y expert](https://github.com/mfairchild365/zero-to-a11y-expert)
+- [Weather App Demo](https://weather.mfairchild365.com/) | [source](https://github.com/mfairchild365/weather-app-demo) - An accessible full stack weather app, built with an ai-native workflow, spec driven development, React, Postgres, node, and APIs. **Showcases my full stack development and AI-native development capability**.
+- [Microsoft a11y-llm-eval](https://microsoft.github.io/a11y-llm-eval-report/) | [source](https://github.com/microsoft/a11y-llm-eval) - An LLM benchmark that measures how well frontier models produce accessible code by default, and the impact of techniques to improve output. Uses python, node, playwright, and GitHub Copilot. **Showcases my expertise with LLMs, benchmarking, research, custom playwright tests, and agents.**
+- [a11ysupport.io](https://a11ysupport.io) - Showcases my deep subject matter expertise in digital accessibility, assistive technologies, and full stack development.
+- [W3C ARIA-AT](https://aria-at.w3.org/) - Showcases my subject matter expertise in accessibility and commitment to open standards.
 
 ## Contact
 
