@@ -5,9 +5,9 @@ I'm Michael Fairchild. I'm a full stack engineer, AI-native developer, accessibi
 ## Key Projects
 
 - [Weather App Demo](https://weather.mfairchild365.com/) | [source](https://github.com/mfairchild365/weather-app-demo) - An accessible full stack weather app, built with an ai-native workflow, spec driven development, React, Postgres, node, and APIs. **Showcases my full stack development and AI-native development capability**.
-- [Microsoft a11y-llm-eval](https://microsoft.github.io/a11y-llm-eval-report/) | [source](https://github.com/microsoft/a11y-llm-eval) - An LLM benchmark that measures how well frontier models produce accessible code by default, and the impact of techniques to improve output. Uses python, node, playwright, and GitHub Copilot. **Showcases my expertise with LLMs, benchmarking, research, custom playwright tests, and agents.**
-- [a11ysupport.io](https://a11ysupport.io) - Showcases my deep subject matter expertise in digital accessibility, assistive technologies, and full stack development.
-- [W3C ARIA-AT](https://aria-at.w3.org/) - Showcases my subject matter expertise in accessibility and commitment to open standards.
+- [Microsoft a11y-llm-eval](https://microsoft.github.io/a11y-llm-eval-report/) | [source](https://github.com/microsoft/a11y-llm-eval) - An LLM benchmark that measures how well frontier models produce accessible code by default, and the impact of techniques to improve output (instructions/skills). Uses python, node, playwright, and GitHub Copilot. **Showcases my expertise with LLMs, benchmarking, research, custom playwright tests, and agents.**
+- [a11ysupport.io](https://a11ysupport.io) - Showcases my deep subject matter expertise in digital accessibility, assistive technologies, and full stack development. Uses Node and JavaScript (this is an older codebase - I'm working on updating it).
+- [W3C ARIA-AT](https://aria-at.w3.org/) - Showcases my leadership in accessibility and commitment to open standards.
 
 ## Contact
 
